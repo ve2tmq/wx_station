@@ -35,4 +35,4 @@ This script isn't just an audio player; it's a software architecture optimized f
 1. Clone this repository to your local machine:
    ```bash
    git clone [https://github.com/ve2tmq/OpenWX-Station.git](https://github.com/YOUR_USERNAME/OpenWX-Station.git)
-   cd OpenWX-Station irwaves alive on the historical frequencies (162.400 - 162.550 MHz) at zero cost to the community.
+   cd OpenWX-Station wx.py alive on the historical frequencies (162.400 - 162.550 MHz) at zero cost to the community.

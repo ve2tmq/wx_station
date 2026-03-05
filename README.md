@@ -1,4 +1,4 @@
-# 📻 OpenWX-Canada: The Volunteer-Driven Weather Radio Relay
+# 📻 OpenWX-Station: The Volunteer-Driven Weather Radio Relay
 
 ![Python Version](https://img.shields.io/badge/python-3.8%2B-blue)
 ![License](https://img.shields.io/badge/license-MIT-green)
@@ -7,7 +7,7 @@
 ## 🌪️ The Project (The "Why")
 On March 16, 2026, Environment Canada will cease broadcasting weather forecasts on dedicated VHF channels (the WX band). Millions of emergency weather radios, marine VHFs, and scanners across the country will go silent. 
 
-**OpenWX-Canada** is an open-source initiative aimed at replacing this government infrastructure with a resilient citizen network, managed by and for the amateur radio community. This Python script allows any club or enthusiast to turn a simple computer (or a Raspberry Pi) and a surplus commercial VHF transmitter into a fully automated, continuous weather broadcasting station.
+**OpenWX-Station** is an open-source initiative aimed at replacing this government infrastructure with a resilient citizen network, managed by and for the amateur radio community. This Python script allows any club or enthusiast to turn a simple computer (or a Raspberry Pi) and a surplus commercial VHF transmitter into a fully automated, continuous weather broadcasting station.
 
 Our goal is simple: Keep the airwaves alive on the historical frequencies (162.400 - 162.550 MHz) at zero cost to the community.
 
@@ -34,5 +34,5 @@ This script isn't just an audio player; it's a software architecture optimized f
 
 1. Clone this repository to your local machine:
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/OpenWX-Canada.git](https://github.com/YOUR_USERNAME/OpenWX-Canada.git)
-   cd OpenWX-Canadairwaves alive on the historical frequencies (162.400 - 162.550 MHz) at zero cost to the community.
+   git clone [https://github.com/ve2tmq/OpenWX-Station.git](https://github.com/YOUR_USERNAME/OpenWX-Station.git)
+   cd OpenWX-Station irwaves alive on the historical frequencies (162.400 - 162.550 MHz) at zero cost to the community.
